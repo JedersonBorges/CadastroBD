@@ -1,0 +1,50 @@
+run:
+     [java] Escolha uma opcao:
+     [java] 1. Incluir Pessoa Fisica
+     [java] 2. Alterar Pessoa Fisica
+     [java] 3. Consultar Pessoas Fisicas
+     [java] 4. Excluir Pessoa Fisica
+     [java] 5. Incluir Pessoa Juridica
+     [java] 6. Alterar Pessoa Juridica
+     [java] 7. Consultar Pessoas Juridicas
+     [java] 8. Excluir Pessoa Juridica
+     [java] 9. Buscar Pessoa
+     [java] 0. Sair
+3
+     [java] Opcao: Pessoas Fisicas:
+     [java] ID: 7
+     [java] Nome: Joao
+     [java] Logradouro: Rua 12, casa 3, Quitanda
+     [java] Cidade: Riacho do Sul
+     [java] Estado: PA
+     [java] Telefone: 1111-1111
+     [java] Email: joao@riacho.com
+     [java] CPF: 11111111111
+     [java] ID: 23
+     [java] Nome: Fulano da Silva
+     [java] Logradouro: Rua do fim do mundo
+     [java] Cidade: Joinville
+     [java] Estado: SC
+     [java] Telefone: 4799999995
+     [java] Email: FULANO@HOTMAIL.COM
+     [java] CPF: 11122233344
+     [java] Escolha uma opcao:
+     [java] 1. Incluir Pessoa Fisica
+     [java] 2. Alterar Pessoa Fisica
+     [java] 3. Consultar Pessoas Fisicas
+     [java] 4. Excluir Pessoa Fisica
+     [java] 5. Incluir Pessoa Juridica
+     [java] 6. Alterar Pessoa Juridica
+     [java] 7. Consultar Pessoas Juridicas
+     [java] 8. Excluir Pessoa Juridica
+     [java] 9. Buscar Pessoa
+     [java] 0. Sair
+
+
+
+
+
+
+
+
+
